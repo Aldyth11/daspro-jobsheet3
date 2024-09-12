@@ -17,10 +17,6 @@ public class Tugas2jobsheet3 {
 
         System.out.println("Gaji yang diterima: " + gaji);
        
-        
-        
-
-
     }
     
 }
